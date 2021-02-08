@@ -1,0 +1,13 @@
+C:\Users\jakkr\Desktop\IPay88\IPay88Q1\IPay88Q1\bin\Debug\netcoreapp3.1\IPay88Q1.exe
+C:\Users\jakkr\Desktop\IPay88\IPay88Q1\IPay88Q1\bin\Debug\netcoreapp3.1\IPay88Q1.deps.json
+C:\Users\jakkr\Desktop\IPay88\IPay88Q1\IPay88Q1\bin\Debug\netcoreapp3.1\IPay88Q1.runtimeconfig.json
+C:\Users\jakkr\Desktop\IPay88\IPay88Q1\IPay88Q1\bin\Debug\netcoreapp3.1\IPay88Q1.runtimeconfig.dev.json
+C:\Users\jakkr\Desktop\IPay88\IPay88Q1\IPay88Q1\bin\Debug\netcoreapp3.1\IPay88Q1.dll
+C:\Users\jakkr\Desktop\IPay88\IPay88Q1\IPay88Q1\bin\Debug\netcoreapp3.1\IPay88Q1.pdb
+C:\Users\jakkr\Desktop\IPay88\IPay88Q1\IPay88Q1\obj\Debug\netcoreapp3.1\IPay88Q1.csprojAssemblyReference.cache
+C:\Users\jakkr\Desktop\IPay88\IPay88Q1\IPay88Q1\obj\Debug\netcoreapp3.1\IPay88Q1.AssemblyInfoInputs.cache
+C:\Users\jakkr\Desktop\IPay88\IPay88Q1\IPay88Q1\obj\Debug\netcoreapp3.1\IPay88Q1.AssemblyInfo.cs
+C:\Users\jakkr\Desktop\IPay88\IPay88Q1\IPay88Q1\obj\Debug\netcoreapp3.1\IPay88Q1.csproj.CoreCompileInputs.cache
+C:\Users\jakkr\Desktop\IPay88\IPay88Q1\IPay88Q1\obj\Debug\netcoreapp3.1\IPay88Q1.dll
+C:\Users\jakkr\Desktop\IPay88\IPay88Q1\IPay88Q1\obj\Debug\netcoreapp3.1\IPay88Q1.pdb
+C:\Users\jakkr\Desktop\IPay88\IPay88Q1\IPay88Q1\obj\Debug\netcoreapp3.1\IPay88Q1.genruntimeconfig.cache

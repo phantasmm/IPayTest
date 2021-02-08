@@ -1,0 +1,59 @@
+﻿@page
+@model IPay88Q2_4.Pages.Q3Model
+@{
+    ViewData["Title"] = "Q3";
+}
+<h1>Q3</h1>
+<table class="table table-dark">
+    <tr>
+        <th>Doctor</th>
+        <th>Professor</th>
+        <th>Singer</th>
+        <th>Actor</th>
+    </tr>
+    @for (var i = 0; i < @Model.max; i++)
+    {
+        <tr>
+            <td>
+                @if (Model.Doctor.Length > i)
+                {
+                    @Model.Doctor[i]
+                }
+                else
+                {
+                    <span>NULL</span>
+                }
+            </td>
+            <td>
+                @if (Model.Professor.Length > i)
+                {
+                    @Model.Professor[i]
+                }
+                else
+                {
+                    <span>NULL</span>
+                }
+            </td>
+            <td>
+                @if (Model.Singer.Length > i)
+                {
+                    @Model.Singer[i]
+                }
+                else
+                {
+                    <span>NULL</span>
+                }
+            </td>
+            <td>
+                @if (Model.Actor.Length > i)
+                {
+                    @Model.Actor[i]
+                }
+                else
+                {
+                    <span>NULL</span>
+                }
+            </td>
+        </tr>
+    }
+</table>

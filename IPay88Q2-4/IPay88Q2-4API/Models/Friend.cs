@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using System.ComponentModel.DataAnnotations;
+
+namespace IPay88Q2_4API.Models
+{
+    public class Friend
+    {
+        public int ID { get; set; }
+        [Required]
+        public Student My { get; set; }
+        [Required]
+        public Student Friends { get; set; }
+    }
+}

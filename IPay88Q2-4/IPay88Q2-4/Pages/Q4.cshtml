@@ -1,0 +1,45 @@
+﻿@page
+@model IPay88Q2_4.Pages.Q4Model
+@{
+    ViewData["Title"] = "Q4";
+}
+<h1>Q4</h1>
+<form method="post">
+    <div class="form-group">
+        <lable>Card ID: </lable>
+        <input type="text" class="form-control" asp-for="search" placeholder="0000 0000 0000 0000" />
+
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+<br>
+<br>
+
+<div class="row">
+    <div class="col-sm-10">
+        <div class="card">
+            <div class="card-header">
+                <strong>Credit Card</strong>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-sm-8">
+                        <div class="form-group">
+                            <label for="name">Bank Name</label>
+                            <input class="form-control" id="name" type="text" placeholder="Bank Name" asp-for="result.Name" disabled>
+                        </div>
+                    </div>
+                    <div class="form-group col-sm-4">
+                        <label >Type</label>
+                        <select class="form-control" id="ccmonth" asp-for="result.IsVISA" disabled>
+                            <option value="null"></option>
+                            <option value="true">VISA</option>
+                            <option value="false">MASTER CARD</option>
+                        </select>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>

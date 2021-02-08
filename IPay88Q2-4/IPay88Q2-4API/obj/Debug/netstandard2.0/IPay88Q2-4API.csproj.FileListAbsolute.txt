@@ -1,0 +1,9 @@
+C:\Users\jakkr\Desktop\IPay88\IPay88Q2-4\IPay88Q2-4API\bin\Debug\netstandard2.0\IPay88Q2-4API.deps.json
+C:\Users\jakkr\Desktop\IPay88\IPay88Q2-4\IPay88Q2-4API\bin\Debug\netstandard2.0\IPay88Q2-4API.dll
+C:\Users\jakkr\Desktop\IPay88\IPay88Q2-4\IPay88Q2-4API\bin\Debug\netstandard2.0\IPay88Q2-4API.pdb
+C:\Users\jakkr\Desktop\IPay88\IPay88Q2-4\IPay88Q2-4API\obj\Debug\netstandard2.0\IPay88Q2-4API.csprojAssemblyReference.cache
+C:\Users\jakkr\Desktop\IPay88\IPay88Q2-4\IPay88Q2-4API\obj\Debug\netstandard2.0\IPay88Q2-4API.AssemblyInfoInputs.cache
+C:\Users\jakkr\Desktop\IPay88\IPay88Q2-4\IPay88Q2-4API\obj\Debug\netstandard2.0\IPay88Q2-4API.AssemblyInfo.cs
+C:\Users\jakkr\Desktop\IPay88\IPay88Q2-4\IPay88Q2-4API\obj\Debug\netstandard2.0\IPay88Q2-4API.csproj.CoreCompileInputs.cache
+C:\Users\jakkr\Desktop\IPay88\IPay88Q2-4\IPay88Q2-4API\obj\Debug\netstandard2.0\IPay88Q2-4API.dll
+C:\Users\jakkr\Desktop\IPay88\IPay88Q2-4\IPay88Q2-4API\obj\Debug\netstandard2.0\IPay88Q2-4API.pdb
