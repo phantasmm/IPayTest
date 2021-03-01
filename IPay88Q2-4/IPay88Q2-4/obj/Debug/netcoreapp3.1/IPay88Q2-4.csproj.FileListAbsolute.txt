@@ -79,3 +79,13 @@ C:\Users\jakkr\Desktop\IPay88\IPay88Q2-4\IPay88Q2-4\obj\Debug\netcoreapp3.1\Razo
 C:\Users\jakkr\Desktop\IPay88\IPay88Q2-4\IPay88Q2-4\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\jakkr\Desktop\IPay88\IPay88Q2-4\IPay88Q2-4\obj\Debug\netcoreapp3.1\Razor\Pages\Q3.cshtml.g.cs
 C:\Users\jakkr\Desktop\IPay88\IPay88Q2-4\IPay88Q2-4\obj\Debug\netcoreapp3.1\Razor\Pages\Q4.cshtml.g.cs
+C:\Users\jakkr\Desktop\IPay88\IPay88Q2-4\IPay88Q2-4\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\jakkr\Desktop\IPay88\IPay88Q2-4\IPay88Q2-4\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\jakkr\Desktop\IPay88\IPay88Q2-4\IPay88Q2-4\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\jakkr\Desktop\IPay88\IPay88Q2-4\IPay88Q2-4\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\jakkr\Desktop\IPay88\IPay88Q2-4\IPay88Q2-4\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\jakkr\Desktop\IPay88\IPay88Q2-4\IPay88Q2-4\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\jakkr\Desktop\IPay88\IPay88Q2-4\IPay88Q2-4\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\jakkr\Desktop\IPay88\IPay88Q2-4\IPay88Q2-4\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\jakkr\Desktop\IPay88\IPay88Q2-4\IPay88Q2-4\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\jakkr\Desktop\IPay88\IPay88Q2-4\IPay88Q2-4\obj\Debug\netcoreapp3.1\Razor\Pages\Q5.cshtml.g.cs
